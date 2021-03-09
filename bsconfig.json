@@ -12,7 +12,8 @@
   "suffix": ".bs.js",
   "bs-dependencies": [],
   "warnings": {
-    "error": "+101"
+    "number": "-109",
+    "error": "+101-109"
   },
   "reason": {
     "react-jsx": 3
